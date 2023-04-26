@@ -1,5 +1,16 @@
-- 👋 Hi, I’m @Leyter96
-- 👀 I’m interested in programming, maybe create finance market AI assistant.
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on AI, robots and other algorithms.
-- 📫 How to reach me Gmail: danspetr23@gmail.com :: Twitter: @LEYTER_96
+#include <iostream>
+using namespace std;
+
+void main()
+{
+	cout << "Hello Github! My nickname is Leyter. Recently started learning C++." << endl;
+
+	cout << endl;
+
+	int a = 1, b = 1;
+	cout << a + b << endl;
+
+	cout << endl;
+
+	cout << "And what next?" << endl;
+}
